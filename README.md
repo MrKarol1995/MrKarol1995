@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrKarol1995
 - 👀 I’m interested in AI and Data Science
-- 🌱 I’m currently learning Python, SciLab and SQL
+- 🌱 I’m currently learning Python, C++, HTML, LateX, SciLab and SQL
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me karolcieslik121@wp.pl
 - ⚡ Fun fact: Math Student, Pianist

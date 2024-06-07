@@ -5,6 +5,7 @@
 - 📫 How to reach me karolcieslik121@wp.pl
 - 📲 Linkedin: https://www.linkedin.com/in/karol-cieślik-23b190310/
 - ⚡ Fun fact: Math Student, Pianist
+- ⌛️🇪🇺🇵🇱🇬🇧🇺🇸-->🇯🇵🇮🇹⏳
 
 <!---
 MrKarol1995/MrKarol1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

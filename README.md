@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, C++, HTML, LateX, SciLab and SQL
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me karolcieslik121@wp.pl
+- 📲 Linkedin: https://www.linkedin.com/in/karol-cieślik-23b190310/
 - ⚡ Fun fact: Math Student, Pianist
 
 <!---

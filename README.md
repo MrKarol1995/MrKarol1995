@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @MrKarol1995<br>- 👀 I’m interested in AI, Data Science, Stochastic processes and Actuarial Mathematics<br>- 💻 I'm currently studying Applied Mathematics (V sem.) <br>- 🌱 I’m currently learning Python, C++, HTML, LateX, SciLab and SQL<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me karolcieslik121@wp.pl ⚡ Fun fact: Pianist and Painter<br>- ⌛️🇪🇺🇵🇱🇬🇧🇺🇸-->🇯🇵🇮🇹⏳
+- 👋 Hi, I’m @MrKarol1995<br>- 👀 I’m interested in AI, Data Science, Stochastic processes and Actuarial Mathematics<br>- 💻 I'm currently studying Applied Mathematics (V sem.) <br>- 🌱 I’m currently learning Python, C++, HTML, LateX, SciLab and SQL<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me karolcieslik121@wp.pl - ⚡ Fun fact: Pianist and Painter<br>- ⌛️🇪🇺🇵🇱🇬🇧🇺🇸-->🇯🇵🇮🇹⏳
 
 
 ## 🌐 Socials:

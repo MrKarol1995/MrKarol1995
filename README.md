@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Karol Cieślik<br>- 👀 I’m interested in AI, Data Science, Deep learning, Stochastic processes and Actuarial Mathematics<br>- 💻 I'm currently studying Applied Mathematics (V sem.) <br>- 🌱 I’m currently learning Python, R, C++, HTML, LateX, SciLab and SQL<br>- 💞️ I’m looking to collaborate on projects <br> - ⚡ Fun fact: Pianist and Painter<br> - ⌛️🇪🇺🇵🇱🇮🇹🇬🇧🇺🇸-->🇯🇵⏳<br>- 📫 How to reach me karolcieslik121@wp.pl   <br> - 📲 📩 Personal Website https://[karolcieslik.odoo.com](https://mast1.odoo.com) <br>
+- 👋 Hi, I’m Karol Cieślik<br>- 👀 I’m interested in AI, Data Science, Deep learning, Stochastic processes and Actuarial Mathematics<br>- 💻 I'm currently studying Applied Mathematics (V sem.) <br>- 🌱 I’m currently learning Python, R, C++, HTML, LateX, SciLab and SQL<br>- 💞️ I’m looking to collaborate on projects <br> - ⚡ Fun fact: Pianist and Painter<br> - ⌛️🇪🇺🇵🇱🇮🇹🇬🇧🇺🇸-->🇯🇵⏳<br>- 📫 How to reach me karolcieslik121@wp.pl   <br> - 📲 📩 Personal Website (https://mast1.odoo.com) <br>
 
 
 ## 🌐 Socials:
